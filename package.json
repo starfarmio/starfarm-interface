@@ -5,7 +5,7 @@
   "private": true,
   "dependencies": {
     "@becoswap-libs/sdk": "1.0.0",
-    "@becoswap-libs/uikit": "file:../becoswap-toolkit/packages/beco-uikit",
+    "@becoswap-libs/uikit": "1.0.1",
     "@binance-chain/bsc-connector": "^1.0.0",
     "@crowdin/crowdin-api-client": "^1.8.16",
     "@ethersproject/experimental": "^5.0.1",
