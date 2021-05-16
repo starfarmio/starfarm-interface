@@ -1339,10 +1339,10 @@
     truffle-flattener "^1.4.4"
     truffle-hdwallet-provider "^1.0.17"
 
-"@becoswap-libs/sdk@1.0.0":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@becoswap-libs/sdk/-/sdk-1.0.0.tgz#e5562e8e0966376cd54f64a0cb0b7829cfac5c0f"
-  integrity sha512-iSrkUQm/EU6rJPlb2D1PYjTe5KHisIGDTDogWzqTJsC5IQilIFMWpVu9bq0unZYiEGg2ZSR17XpGTq8CicdyTQ==
+"@becoswap-libs/sdk@1.0.3":
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/@becoswap-libs/sdk/-/sdk-1.0.3.tgz#019c6aefdb56ac8b42955ac25712e08a25557cb2"
+  integrity sha512-gBVOoID6JH8RsweHIfYVxzUZgfjRhOAvTr0oEWDdgdVhensytIAsH5qj9ZbCfFUHNIUtu+nZD8HJ2hvedY/WUQ==
   dependencies:
     "@becoswap-libs/becoswap-core" "^0.1.0"
     big.js "^5.2.2"
@@ -1352,8 +1352,10 @@
     tiny-warning "^1.0.3"
     toformat "^2.0.0"
 
-"@becoswap-libs/uikit@file:../becoswap-toolkit/packages/beco-uikit":
-  version "0.29.4"
+"@becoswap-libs/uikit@1.0.1":
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/@becoswap-libs/uikit/-/uikit-1.0.1.tgz#821ff449d90f0aa7daa36c574b0357bfcb7da0bd"
+  integrity sha512-09sxkydyEI/1Qyks+dF2CXZejfr06ijYXm9ElFdEIzGQcyVtoib3bAQw3hWGxzOGGlkuq1GfmVrTU4kOOGY2hA==
   dependencies:
     "@popperjs/core" "^2.9.2"
     "@types/lodash" "^4.14.168"
