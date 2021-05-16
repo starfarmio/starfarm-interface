@@ -163,7 +163,6 @@ export default function AddLiquidity({
       ]
       value = null
     }
-    console.log(router.address, args);
     setAttemptingTxn(true)
     // const aa = await estimate(...args, value ? { value } : {})
     await estimate(...args, value ? { value } : {})
