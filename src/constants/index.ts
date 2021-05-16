@@ -1,6 +1,6 @@
 import { ChainId, JSBI, Percent, Token, WETH } from '@becoswap-libs/sdk'
 
-export const ROUTER_ADDRESS = '0x48e62aa8ed3333a4e7e98cb5a48e6c0b6a94c309'
+export const ROUTER_ADDRESS = '0x2b9856fa15974f994a7d3040874af658e6b9f312'
 
 // a list of tokens by chain
 type ChainTokenList = {
