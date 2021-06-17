@@ -4,7 +4,7 @@ const config: MenuEntry[] = [
   {
     label: 'Home',
     icon: 'HomeIcon',
-    href: 'https://becoswap.com/',
+    href: 'https://bsc.becoswap.com/',
   },
   {
     label: 'Trade',
@@ -24,17 +24,17 @@ const config: MenuEntry[] = [
   {
     label: 'Farms',
     icon: 'FarmIcon',
-    href: 'https://becoswap.com/farms',
+    href: 'https://bsc.becoswap.com/farms',
   },
   {
     label: 'Pools',
     icon: 'PoolIcon',
-    href: 'https://becoswap.com/pools',
+    href: 'https://bsc.becoswap.com/pools',
   },
   {
     label: 'Referrals',
     icon: 'ReferralIcon',
-    href: 'https://becoswap.com/referrals',
+    href: 'https://bsc.becoswap.com/referrals',
   },
   {
     label: 'Analytics',
@@ -42,31 +42,31 @@ const config: MenuEntry[] = [
     items: [
       {
         label: "Overview",
-        href: 'https://becoswap.info',
+        href: 'https://bsc.becoswap.info',
       },
       {
         label: "Tokens",
-        href: 'https://becoswap.info/tokens',
+        href: 'https://bsc.becoswap.info/tokens',
       },
       {
         label: "Pairs",
-        href: 'https://becoswap.info/pairs',
+        href: 'https://bsc.becoswap.info/pairs',
       },
       {
         label: "Accounts",
-        href: 'https://becoswap.info/accounts',
+        href: 'https://bsc.becoswap.info/accounts',
       },
     ],
   },
   {
     label: 'Lottery',
     icon: 'TicketIcon',
-    href: 'https://becoswap.com/lottery',
+    href: 'https://bsc.becoswap.com/lottery',
   },
   {
     label: 'Launchpad',
     icon: 'IfoIcon',
-    href: 'https://becoswap.com/launchpad',
+    href: 'https://bsc.becoswap.com/launchpad',
   },
   {
     label: 'NFT Marketplace',
