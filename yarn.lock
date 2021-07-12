@@ -1339,32 +1339,6 @@
     truffle-flattener "^1.4.4"
     truffle-hdwallet-provider "^1.0.17"
 
-"@becoswap-libs/sdk@1.0.3":
-  version "1.0.3"
-  resolved "https://registry.yarnpkg.com/@becoswap-libs/sdk/-/sdk-1.0.3.tgz#019c6aefdb56ac8b42955ac25712e08a25557cb2"
-  integrity sha512-gBVOoID6JH8RsweHIfYVxzUZgfjRhOAvTr0oEWDdgdVhensytIAsH5qj9ZbCfFUHNIUtu+nZD8HJ2hvedY/WUQ==
-  dependencies:
-    "@becoswap-libs/becoswap-core" "^0.1.0"
-    big.js "^5.2.2"
-    decimal.js-light "^2.5.0"
-    jsbi "^3.1.1"
-    tiny-invariant "^1.1.0"
-    tiny-warning "^1.0.3"
-    toformat "^2.0.0"
-
-"@becoswap-libs/uikit@1.0.1":
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/@becoswap-libs/uikit/-/uikit-1.0.1.tgz#821ff449d90f0aa7daa36c574b0357bfcb7da0bd"
-  integrity sha512-09sxkydyEI/1Qyks+dF2CXZejfr06ijYXm9ElFdEIzGQcyVtoib3bAQw3hWGxzOGGlkuq1GfmVrTU4kOOGY2hA==
-  dependencies:
-    "@popperjs/core" "^2.9.2"
-    "@types/lodash" "^4.14.168"
-    "@types/styled-system" "^5.1.10"
-    lodash "^4.17.20"
-    react-popper "^2.2.5"
-    react-transition-group "^4.4.1"
-    styled-system "^5.1.5"
-
 "@binance-chain/bsc-connector@^1.0.0":
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/@binance-chain/bsc-connector/-/bsc-connector-1.0.0.tgz#5ce6b02af0921c5fb52c10861b7a0b4a958ca57a"
@@ -3039,6 +3013,32 @@
   version "0.8.2"
   resolved "https://registry.yarnpkg.com/@solidity-parser/parser/-/parser-0.8.2.tgz#a6a5e93ac8dca6884a99a532f133beba59b87b69"
   integrity sha512-8LySx3qrNXPgB5JiULfG10O3V7QTxI/TLzSw5hFQhXWSkVxZBAv4rZQ0sYgLEbc8g3L2lmnujj1hKul38Eu5NQ==
+
+"@starfarm-libs/sdk@1.0.1":
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/@starfarm-libs/sdk/-/sdk-1.0.1.tgz#2f259e2cd0a7cfe245f69df04eccca9784fdf12f"
+  integrity sha512-ATOLytAgKAD8G+kcVaiIoYAjaiNbd1sPDKz3BXf0wKM1Tq07nFJIBmP7PlXs/Y/l7a4CxMVNRVeg+v+U0W2U9g==
+  dependencies:
+    "@becoswap-libs/becoswap-core" "^0.1.0"
+    big.js "^5.2.2"
+    decimal.js-light "^2.5.0"
+    jsbi "^3.1.1"
+    tiny-invariant "^1.1.0"
+    tiny-warning "^1.0.3"
+    toformat "^2.0.0"
+
+"@starfarm-libs/uikit@1.0.0":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@starfarm-libs/uikit/-/uikit-1.0.0.tgz#b928f58f60d5030e1db06df9fbf0ace0f11a0a86"
+  integrity sha512-YYJAGtCuVOkjxMLkavdx9/qVdnB6ZXtvW+bXhNRLNC/bixWcfkGlWbUdFGwgMY0SMNtkCWuw/iA8AhJ6skmWIQ==
+  dependencies:
+    "@popperjs/core" "^2.9.2"
+    "@types/lodash" "^4.14.168"
+    "@types/styled-system" "^5.1.10"
+    lodash "^4.17.20"
+    react-popper "^2.2.5"
+    react-transition-group "^4.4.1"
+    styled-system "^5.1.5"
 
 "@styled-system/background@^5.1.2":
   version "5.1.2"
